@@ -5,11 +5,13 @@ DarsLab is a web development agency focused on building scalable digital platfor
 
 The organization publishes templates, technical resources, development architecture examples, and documentation related to modern web development technologies.
 
-Website: https://www.darslab.tech \n
-GitHub: https://github.com/DarsLab \n
-Instagram: https://instagram.com/darslab.tech \n
-Location: Gurgaon, India
+Website: https://www.darslab.tech
 
+GitHub: https://github.com/DarsLab
+
+Instagram: https://instagram.com/darslab.tech
+
+Location: Gurgaon, India
 ---
 
 # Core Development Services
